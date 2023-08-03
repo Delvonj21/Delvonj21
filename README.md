@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😌, I'm Delvon Johnson</h1>
-<h3 align="center">A European Pro basketball player turned Software Developer</h3>
+<h3 align="center">Pro Basketball Player / Software Developer</h3>
 <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript and Python**
