@@ -1,5 +1,5 @@
-<h1 align="center">🏀 Delvon Johnson 💻 </h1>
-<h3 align="center">Pro Basketball Player / Web Developer</h3>
+<h1 align="center">Delvon Johnson 💻 </h1>
+<h3 align="center">Web Developer</h3>
 <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, Python**
