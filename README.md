@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **anything I'm learning about**
+- 💬 Ask me about **Coding and Sportst**
 
 - 📫 How to reach me **Delvonj21@gmail.com**
 
