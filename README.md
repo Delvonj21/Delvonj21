@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **Delvonj21@gmail.com**
 
-- ⚡ Fun fact **I'm a Professional Basketball player in Europe**
+- ⚡ Fun fact **I'm a Professional Basketball player in Europe, and i've played in 10 different countries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
