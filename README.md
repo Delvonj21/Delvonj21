@@ -2,9 +2,9 @@
 <h3 align="center">Web Developer</h3>
 <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-- 🌱 I’m currently learning **Flask/MySql**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Coding, Sports and anything else that you think is interesting**
+- 💬 Ask me about **Coding and Sports**
 
 - 📫 How to reach me **Delvonj21@gmail.com**
 
