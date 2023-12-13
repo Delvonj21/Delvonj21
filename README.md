@@ -2,13 +2,13 @@
 <h3 align="center">Web Developer</h3>
 <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python/Flask**
 
 - 💬 Ask me about **Coding, Sports and any interesting facts**
 
 - 📫 How to reach me **Delvonj21@gmail.com**
 
-- ⚡ Fun fact **I'm a Professional Basketball player in Europe**
+- ⚡ Fun fact **I'm a Professional Basketball player in Europe, been playing for 13 seasons and experienced 10 different countries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
