@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on **Projects**
 
-- 💬 Ask me about **Programming or Sports**
+- 💬 Ask me about **Python and Sports**
 
 - 📫 How to reach me **Delvonj21@gmail.com**
 
