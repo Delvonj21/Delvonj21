@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **Delvonj21@gmail.com**
 
-- ⚡ Fun fact **I'm a Professional Basketball player in Europe, been playing for 13 seasons, recent CodingDojo graduate**
+- ⚡ Fun fact **I'm a Professional Basketball player in Europe, been playing for 13 seasons**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
