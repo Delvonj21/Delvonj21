@@ -2,9 +2,9 @@
 <h3 align="center">Software Development</h3>
 <img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-- 🌱 I’m currently working on **Projects**
+- 🌱 I’m currently working on **CS50 and Projects**
 
-- 💬 Ask me about **Python and Sports**
+- 💬 Ask me about **Programming and Sports**
 
 - 📫 How to reach me **Delvonj21@gmail.com**
 
