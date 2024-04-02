@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on **freeCodeCamp**
 
-- 💬 Ask me about **March Madness**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **Delvonj21@gmail.com**
 
