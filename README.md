@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on **Launch School**
 
-- 💬 Ask me about **Programming**
+- 💬 Ask me about **Programming and sports**
 
 - 📫 How to reach me **Delvonj21@gmail.com**
 
