@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on **Python OOP**
 
-- 💬 Ask me about **Programming and sports**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **Delvonj21@gmail.com**
 
